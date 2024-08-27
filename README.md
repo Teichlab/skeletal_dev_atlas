@@ -1,1 +1,1 @@
-# skeletal_dev_atlas
+# A Multi-omic Atlas of Human Embryonic Skeletal Development
